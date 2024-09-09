@@ -17,4 +17,5 @@
 * [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 €
 * SRAM
   * Rival eTap AXS Rear Derailleur
+  * Brifter EB-FRC-D1: https://www.sram.com/de/sram/models/eb-frc-d1
 * Shimano and LTWOO are not in the pool since they require some internal cabling...
