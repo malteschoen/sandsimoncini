@@ -14,6 +14,7 @@
 
 ## Parts
 ### Wireless brifters
-* WHEELTOP EDS-TX
-* SRAM Rival eTap AXS
+* [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 €
+* SRAM
+  * Rival eTap AXS Rear Derailleur
 * Shimano and LTWOO are not in the pool since they require some internal cabling...
