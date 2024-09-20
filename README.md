@@ -28,8 +28,10 @@
 | Frame | 550 € | Privat (Thorsten)| delivered |
 | Crankset | 35 € | Privat (Thorsten)| bought |
 | Blips | 50 € | M.H. | delivered |
-| Leather grip tape | 20 € | Saschato| bought |
+| Leather grip tape | 20 € | Sascha| bought |
 | SR Forged Vorbau | 35 € | Jens | delivered |
-| AXS rear mech | XY € | Jasper | in orbit |
+| AXS rear mech | 180 € | Jasper | on hold |
 | AXS blipbox | 277 € | Patrick| bought |
 | Manubri handlebar | 22 € | Paul | bought |
+| AXS battery charger | 30 € | Stefan | bought |
+| AXS front mech | TBD | TBD | searching |
