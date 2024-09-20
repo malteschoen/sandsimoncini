@@ -12,7 +12,7 @@
 * Buy rim brakes
 * Install everything
 
-## Parts
+## Parts ideas
 ### Wireless brifters
 * [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 €
 * [SRAM Upgrade set](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Upgrade-Kit-Rim-Brake-2x12-fach--48241.html) - 950 €
@@ -21,3 +21,15 @@
     * Sram Force AXS D2 Umwerfer 2x12 fach, FD-FRC-E-D2: https://www.sram.com/de/sram/models/fd-frc-e-d2
 * [SRAM Gruppe](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Gruppe-Rim-Brake-2x12-fach-komplett--60650.html) - 1450 €      
 * Shimano and LTWOO are not in the pool since they require some internal cabling...
+
+## Parts purchases/costs
+| Part | Cost | Seller | Status | 
+| ----------- | ----------- |----------- |----------- |
+| Frame | 550 € | Privat (Thorsten)| delivered |
+| Crankset | 35 € | Privat (Thorsten)| bought |
+| Blips | 50 € | M.H. | delivered |
+| Leather grip tape | 20 € | Saschato| bought |
+| SR Forged Vorbau | 35 € | Jens | delivered |
+| AXS rear mech | XY € | Jasper | in orbit |
+| AXS blipbox | 277 € | Patrick| bought |
+| Manubri handlebar | 22 € | Paul | bought |
