@@ -4,7 +4,7 @@
 * In September of 2024, I purchased the frame from a guy who said he'd bought in Italy(?) from a widow (?). 
 
 
-## Parts ideas
+## Conceptual ideas
 ### Groupset
 
 * [SRAM Upgrade set](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Upgrade-Kit-Rim-Brake-2x12-fach--48241.html) - 950 €
@@ -18,8 +18,8 @@
 ## Parts purchases/costs
 | Part | Cost | Seller | Status | 
 | ----------- | ----------- |----------- |----------- |
-| Frame | 550 € | Privat (Thorsten)| delivered |
-| Crankset | 35 € | Privat (Thorsten)| delivered |
+| Frame | 550 € | Thorsten| delivered |
+| Crankset | 35 € | Thorsten| delivered |
 | Blips | 50 € | M.H. | delivered |
 | Leather grip tape | 20 € | Sascha| delivered |
 | SR Forged Vorbau | 35 € | Jens | delivered |
@@ -28,13 +28,13 @@
 | AXS battery charger | 30 € | Stefan | delivered |
 | AXS rear mech | 180 € | Jasper | bought |
 | Left brifter | 15 € | Charlotte | bought |
+| Front rim brake | 27 € | Philipp | bought |
 | AXS front mech | TBD | TBD | searching |
 | Front wheel | TBD | TBD | searching |
 | Rear wheel | TBD | TBD | searching |
 | Cassette & chain | TBD | TBD | searching |
-| Front rim brake | TBD | TBD | searching |
-| Bottle cages | TBD | TBD | searching |
 | Tyres and tubes | TBD | TBD | searching |
 | Seatpost | TBD | TBD | searching |
 | Saddle | TBD | TBD | searching |
 | New silicone brake hoods | TBD | TBD | searching |
+| Bottle cages | TBD | TBD | searching |
