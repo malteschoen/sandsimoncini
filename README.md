@@ -38,3 +38,24 @@
 | Saddle | TBD | TBD | searching |
 | New silicone brake hoods | TBD | TBD | searching |
 | Bottle cages | TBD | TBD | searching |
+
+## Random notes
+
+* Seat post diameter 1 and 1/8 inch = 28.55 mm
+* Old tyres 37-622, radius should be 350 mm
+* New tyres 30-622, radius should be 344 mm
+* New tyres 28-622, radius should be 342 mm
+* New tyres 25-622, radius should be 340 mm
+#### Wheels:
+
+M-WAVE R 40mm Aerofelge silber 32 Loch - hat Maulbreite von 15.5 - Mögliche Reifen: 20 bis 28 
+
+Mavic OpenPro UST für Tubeless - hat Maulbreite von 19 - Mögliche Reifen: 22 bis 34
+
+Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
+
+Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
+
+Orbea vorne Zähne, hinten Zähne
+
+Miche vorne:
