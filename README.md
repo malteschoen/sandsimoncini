@@ -59,3 +59,7 @@ Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
 Orbea vorne Zähne, hinten Zähne
 
 Miche vorne:
+
+
+28 Zoll KX 22 Shutter Precision PV-8 Dynamo-Vorderrad QR - tubeless ready
+28 Zoll Vorderrad mit Nabendynamo DT Swiss RR 511 Shutter Precision PV-8 - tubeless ready 
