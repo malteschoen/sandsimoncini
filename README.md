@@ -56,9 +56,9 @@ Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
 
 Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
 
-Orbea vorne Zähne, hinten Zähne
+Orbea vorne 34 und 50 Zähne, hinten 11-34 Zähne
 
-Miche vorne:
+Miche vorne 42 und 52 Zähne,
 
 
 28 Zoll KX 22 Shutter Precision PV-8 Dynamo-Vorderrad QR - tubeless ready
