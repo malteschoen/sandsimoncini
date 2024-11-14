@@ -26,18 +26,20 @@
 | AXS blipbox | 277 € | Patrick| delivered  |
 | Manubri handlebar | 22 € | Paul | delivered |
 | AXS battery charger | 30 € | Stefan | delivered |
-| AXS rear mech | 180 € | Jasper | bought |
-| Left brifter | 15 € | Charlotte | bought |
-| Front rim brake | 27 € | Philipp | bought |
-| AXS front mech | TBD | TBD | searching |
-| Front wheel | TBD | TBD | searching |
-| Rear wheel | TBD | TBD | searching |
-| Cassette & chain | TBD | TBD | searching |
-| Tyres and tubes | TBD | TBD | searching |
+| AXS rear mech | 180 € | Jasper | delivered |
+| Left brifter | 15 € | Charlotte | delivered |
+| Front rim brake (too big) | 27 € | Philipp | delivered |
+| Front and rear wheel | 583 € | Kurbelix | bought |
+| Front rim brake (right size) | TBD | TBD | searching |
+| Cassette | TBD | TBD | searching |
+| Chain| TBD | TBD | searching |
+| Tyres  | TBD | TBD | searching |
+| Tubes | TBD | TBD | searching |
 | Seatpost | TBD | TBD | searching |
 | Saddle | TBD | TBD | searching |
 | New silicone brake hoods | TBD | TBD | searching |
 | Bottle cages | TBD | TBD | searching |
+| AXS front mech | TBD | TBD | searching |
 
 ## Random notes
 
@@ -54,12 +56,15 @@ Mavic OpenPro UST für Tubeless - hat Maulbreite von 19 - Mögliche Reifen: 22 b
 
 Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
 
+KX 19-622 mm: Mögliche Reifen 25-45 mm
+
+Arbeitshypothese: 28er
+
+### Cassette
+
 Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
 
 Orbea vorne 34 und 50 Zähne, hinten 11-34 Zähne
 
 Miche vorne 42 und 52 Zähne,
 
-
-28 Zoll KX 22 Shutter Precision PV-8 Dynamo-Vorderrad QR - tubeless ready
-28 Zoll Vorderrad mit Nabendynamo DT Swiss RR 511 Shutter Precision PV-8 - tubeless ready 
