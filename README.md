@@ -28,7 +28,7 @@
 | AXS battery charger | 30 € | Stefan | delivered |
 | AXS rear mech | 180 € | Jasper | delivered |
 | Left brifter | 15 € | Charlotte | delivered |
-| Front rim brake (too big) | 27 € | Philipp | delivered |
+| ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
 | Front and rear wheel | 583 € | Kurbelix | bought |
 | Front rim brake (right size) | TBD | TBD | searching |
 | Cassette | TBD | TBD | searching |
@@ -66,5 +66,12 @@ Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
 
 Orbea vorne 34 und 50 Zähne, hinten 11-34 Zähne
 
-Miche vorne 42 und 52 Zähne,
+Miche vorne 42 und 52 Zähne, hinten daher eher was mit vielen Zähnen...
+
+### Weird cross-group stuff as recommend by Alfton and BadenRay
+*	[Seen on rennrad-news.de](https://www.rennrad-news.de/forum/threads/shimano-12-fach-kassette-mit-sram-axs-schaltwerk-kompatibel.177813/)
+* Shimano XT CN-8100 12-by chain
+* Shimano Ultegra R8100 cassette (or the 105 variation thereof)
+* Combined with SRAM Rival or Force Rear Derailleur
+
 
