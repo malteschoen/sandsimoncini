@@ -8,9 +8,9 @@
 ### Groupset
 
 * [SRAM Upgrade set](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Upgrade-Kit-Rim-Brake-2x12-fach--48241.html) - 950 €
-    * Brifter EB-FRC-D1: https://www.sram.com/de/sram/models/eb-frc-d1
-    * Sram Force AXS D2 Schaltwerk, 12 fach, RD-FRC-E-D2 : https://www.sram.com/de/sram/models/rd-frc-e-d2
-    * Sram Force AXS D2 Umwerfer 2x12 fach, FD-FRC-E-D2: https://www.sram.com/de/sram/models/fd-frc-e-d2
+    * [Brifters EB-FRC-D1](https://www.sram.com/de/sram/models/eb-frc-d1)
+    * [SRAM Force AXS D2 12x rear derailleuer 12 fach RD-FRC-E-D2](https://www.sram.com/de/sram/models/rd-frc-e-d2)
+    * [SRAM Force AXS D2 2x12 front derailleur, FD-FRC-E-D2](https://www.sram.com/de/sram/models/fd-frc-e-d2)
 * [SRAM Groupset](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Gruppe-Rim-Brake-2x12-fach-komplett--60650.html) - 1450 €      
 * Shimano and LTWOO are not in the pool since they require some internal cabling / batteries aren't easily removable
  * [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 € - cannot be used since the battery is non-removable - literally won't fly with TSA
@@ -29,9 +29,8 @@
 | AXS rear mech | 180 € | Jasper | delivered |
 | Left brifter | 15 € | Charlotte | delivered |
 | ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
-| Front and rear wheel | 583 € | Kurbelix | bought |
-| Front rim brake (right size) | TBD | TBD | searching |
-| Cassette | TBD | TBD | searching |
+| Front and rear wheel | 583 € | Kurbelix | delivered |
+| Shimano 105 12x cassette | 40 € | Pit | bought |
 | Chain| TBD | TBD | searching |
 | Tyres  | TBD | TBD | searching |
 | Tubes | TBD | TBD | searching |
@@ -39,7 +38,9 @@
 | Saddle | TBD | TBD | searching |
 | New silicone brake hoods | TBD | TBD | searching |
 | Bottle cages | TBD | TBD | searching |
+| Front rim brake (right size) | TBD | TBD | searching |
 | AXS front mech | TBD | TBD | searching |
+
 
 ## Random notes
 
@@ -48,6 +49,8 @@
 * New tyres 30-622, radius should be 344 mm
 * New tyres 28-622, radius should be 342 mm
 * New tyres 25-622, radius should be 340 mm
+
+  
 #### Wheels:
 
 M-WAVE R 40mm Aerofelge silber 32 Loch - hat Maulbreite von 15.5 - Mögliche Reifen: 20 bis 28 
