@@ -29,9 +29,10 @@
 | AXS rear mech | 180 € | Jasper | delivered |
 | Left brifter | 15 € | Charlotte | delivered |
 | ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
-| Front and rear wheel | 583 € | Kurbelix | delivered |
-| Shimano 105 12x cassette | 40 € | Pit | bought |
-| Chain| TBD | TBD | searching |
+| Front and rear wheel (incl. SON hub generator) | 583 € | Kurbelix | delivered |
+| Shimano 105 12x cassette | 40 € | Pit | delivered |
+| Shimano 12x Quicklink chain (shortened to 112 links)| 33 € | Velo | delivered |
+| No-name quick release real axle | 6€ | Velo | delivered |
 | Tyres  | TBD | TBD | searching |
 | Tubes | TBD | TBD | searching |
 | Seatpost | TBD | TBD | searching |
