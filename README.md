@@ -32,9 +32,9 @@
 | Front and rear wheel (incl. SON hub generator) | 583 € | Kurbelix | delivered |
 | Shimano 105 12x cassette | 40 € | Pit | delivered |
 | Shimano 12x Quicklink chain (shortened to 112 links)| 33 € | Velo | delivered |
-| No-name quick release real axle | 6€ | Velo | delivered |
-| Tyres  | TBD | TBD | searching |
-| Tubes | TBD | TBD | searching |
+| No-name quick release rear axle | 6 € | Velo | delivered |
+| (Preliminary) tyres Schwalbe Marathon 622-25| 66 € | Velo | delivered |
+| Generic 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
 | Seatpost | TBD | TBD | searching |
 | Saddle | TBD | TBD | searching |
 | New silicone brake hoods | TBD | TBD | searching |
