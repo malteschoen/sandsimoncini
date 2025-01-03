@@ -20,7 +20,7 @@
 | ----------- | ----------- |----------- |----------- |
 | Frame | 550 € | Thorsten| delivered |
 | Crankset | 35 € | Thorsten| delivered |
-| Blips | 50 € | M.H. | delivered |
+| Blips 140 mm (too short)| 50 € | M.H. | delivered |
 | Leather grip tape | 20 € | Sascha| delivered |
 | SR Forged Vorbau | 35 € | Jens | delivered |
 | AXS blipbox | 277 € | Patrick| delivered  |
@@ -38,8 +38,12 @@
 | 27.2 mm Kalloy Seatpost | 30 € | Lenzen | delivered |
 | (Preliminary) saddle Selle SMP TRK | 55 € | S.A.M.| delivered |
 | Shimano SPD 324 pedals | 21 € | Hans | delivered |
-| AXS front mech | 90 € | Justus | ordered |
-| Front rim brake (right size) | 33 € | Roman | ordered |
+| AXS front mech | 90 € | Justus | delivered |
+| Front rim brake (wrong size again) | 33 € | Roman | delivered |
+| 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
+| TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | TBD | bike-components | ordered |
+| Front rim brake | 20 € | Hans | ordered |
+| Second SRAM battery | 46 € | Gordon | ordered |
 | New silicone brake hoods | TBD | TBD | searching |
 | Bottle cages | TBD | TBD | searching |
 
