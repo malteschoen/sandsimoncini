@@ -1,21 +1,10 @@
-# sandsimoncini
-## historical documentation
+# historical documentation
 * To be completed later, for the time being, here's a [link](http://www.sandsmachine.com/a_sim_r1.htm) to the existing documentation of the frame on the website of the manufacturer of the couplings.
 * In September of 2024, I purchased the frame from a guy who said he'd bought in Italy(?) from a widow (?). 
 
 
-## Conceptual ideas
-### Groupset
 
-* [SRAM Upgrade set](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Upgrade-Kit-Rim-Brake-2x12-fach--48241.html) - 950 €
-    * [Brifters EB-FRC-D1](https://www.sram.com/de/sram/models/eb-frc-d1)
-    * [SRAM Force AXS D2 12x rear derailleuer 12 fach RD-FRC-E-D2](https://www.sram.com/de/sram/models/rd-frc-e-d2)
-    * [SRAM Force AXS D2 2x12 front derailleur, FD-FRC-E-D2](https://www.sram.com/de/sram/models/fd-frc-e-d2)
-* [SRAM Groupset](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Gruppe-Rim-Brake-2x12-fach-komplett--60650.html) - 1450 €      
-* Shimano and LTWOO are not in the pool since they require some internal cabling / batteries aren't easily removable
- * [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 € - cannot be used since the battery is non-removable - literally won't fly with TSA
-
-## Parts purchases/costs
+# Parts purchases/costs
 | Part | Cost | Seller | Status | 
 | ----------- | ----------- |----------- |----------- |
 | Frame | 550 € | Thorsten| delivered |
@@ -40,25 +29,28 @@
 | Shimano SPD 324 pedals | 21 € | Hans | delivered |
 | AXS front mech | 90 € | Justus | delivered |
 | Front rim brake (wrong size again) | 33 € | Roman | delivered |
+| Walfront 12-24 Volt AC to 5 Volt DC Converter  | 20 € | Chasoe (Amazon) | delivered |
 | 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
 | TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | TBD | bike-components | ordered |
 | Front rim brake | 20 € | Hans | ordered |
 | Second SRAM battery | 46 € | Gordon | ordered |
-| New silicone brake hoods | TBD | TBD | searching |
+| 210 mm SRAM blips | 66 € | Claudio | ordered |
 | Bottle cages | TBD | TBD | searching |
+| New silicone brake hoods | TBD | TBD | will be homemade |
+| Electronics enclosure | TBD | TBD | will be homemade |
 
 
 
-## Random notes
+# Random notes
 
-* Seat post diameter 1 and 1/8 inch = 28.55 mm
+## Tyre clearance
 * Old tyres 37-622, radius should be 350 mm
 * New tyres 30-622, radius should be 344 mm
 * New tyres 28-622, radius should be 342 mm
 * New tyres 25-622, radius should be 340 mm
 
   
-#### Wheels:
+## Wheels:
 
 M-WAVE R 40mm Aerofelge silber 32 Loch - hat Maulbreite von 15.5 - Mögliche Reifen: 20 bis 28 
 
@@ -67,6 +59,17 @@ Mavic OpenPro UST für Tubeless - hat Maulbreite von 19 - Mögliche Reifen: 22 b
 Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
 
 KX 19-622 mm: Mögliche Reifen 25-45 mm
+
+
+## Conceptual ideas for Groupset
+
+* [SRAM Upgrade set](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Upgrade-Kit-Rim-Brake-2x12-fach--48241.html) - 950 €
+    * [Brifters EB-FRC-D1](https://www.sram.com/de/sram/models/eb-frc-d1)
+    * [SRAM Force AXS D2 12x rear derailleuer 12 fach RD-FRC-E-D2](https://www.sram.com/de/sram/models/rd-frc-e-d2)
+    * [SRAM Force AXS D2 2x12 front derailleur, FD-FRC-E-D2](https://www.sram.com/de/sram/models/fd-frc-e-d2)
+* [SRAM Groupset](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Gruppe-Rim-Brake-2x12-fach-komplett--60650.html) - 1450 €      
+* Shimano and LTWOO are not in the pool since they require some internal cabling / batteries aren't easily removable
+ * [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 € - cannot be used since the battery is non-removable - literally won't fly with TSA
 
 Arbeitshypothese: 28er
 
