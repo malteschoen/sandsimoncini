@@ -5,60 +5,43 @@
 
 
 # Parts purchases/costs
-| Part | Cost | Seller | Status | 
-| ----------- | ----------- |----------- |----------- |
-| Frame | 550 € | Thorsten| delivered |
-| Crankset | 35 € | Thorsten| delivered |
-| Blips 140 mm (too short)| 50 € | M.H. | delivered |
-| Leather grip tape | 20 € | Sascha| delivered |
-| SR Forged Vorbau | 35 € | Jens | delivered |
-| AXS blipbox | 277 € | Patrick| delivered  |
-| Manubri handlebar | 22 € | Paul | delivered |
-| AXS battery charger | 30 € | Stefan | delivered |
-| AXS rear mech | 180 € | Jasper | delivered |
-| Left brifter | 15 € | Charlotte | delivered |
-| ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
-| Front and rear wheel (incl. SON hub generator) | 583 € | Kurbelix | delivered |
-| Shimano 105 12x cassette | 40 € | Pit | delivered |
-| Shimano 12x Quicklink chain (shortened to 112 links)| 33 € | Velo | delivered |
-| No-name quick release rear axle | 6 € | Velo | delivered |
-| (Preliminary) tyres Schwalbe Marathon 622-25| 66 € | Velo | delivered |
-| (Preliminary) gneric 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
-| 27.2 mm Kalloy Seatpost | 30 € | Lenzen | delivered |
-| (Preliminary) saddle Selle SMP TRK | 55 € | S.A.M.| delivered |
-| Shimano SPD 324 pedals | 21 € | Hans | delivered |
-| AXS front mech | 90 € | Justus | delivered |
-| Front rim brake (wrong size again) | 33 € | Roman | delivered |
-| Walfront 12-24 Volt AC to 5 Volt DC Converter  | 20 € | Chasoe (Amazon) | delivered |
-| 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
-| TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | TBD | bike-components | ordered |
-| Front rim brake | 20 € | Hans | ordered |
-| Second SRAM battery | 46 € | Gordon | ordered |
-| 210 mm SRAM blips | 66 € | Claudio | ordered |
-| Bottle cages | TBD | TBD | searching |
-| New silicone brake hoods | TBD | TBD | will be homemade |
-| Electronics enclosure | TBD | TBD | will be homemade |
+|Entry no. | Part | Cost | Seller | Status | 
+| --- |----------- |----------- | ----------- | ------ | 
+|01| Frame | 550 € | Thorsten| delivered |
+|02| Crankset | 35 € | Thorsten| delivered |
+|03| Blips 140 mm (too short)| 50 € | M.H. | delivered |
+|04| Leather grip tape | 20 € | Sascha| delivered |
+|05| SR Forged Vorbau | 35 € | Jens | delivered |
+|06|SRAM AXS blipbox | 277 € | Patrick| delivered  |
+|07| Manubri handlebar | 22 € | Paul | delivered |
+|08| AXS battery charger | 30 € | Stefan | delivered |
+|09| AXS rear mech | 180 € | Jasper | delivered |
+|11| Left brifter | 15 € | Charlotte | delivered |
+|12| ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
+|13|Front and rear wheel (incl. SON hub generator) | 583 € | Kurbelix | delivered |
+|14| Shimano 105 12x cassette | 40 € | Pit | delivered |
+| 15 | Shimano 12x Quicklink chain (shortened to 112 links)| 33 € | Velo | delivered |
+|16| No-name quick release rear axle | 6 € | Velo | delivered |
+|17| (Preliminary) tyres Schwalbe Marathon 622-25| 66 € | Velo | delivered |
+|18| (Preliminary) gneric 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
+|19| 27.2 mm Kalloy Seatpost | 30 € | Lenzen | delivered |
+|20| (Preliminary) saddle Selle SMP TRK | 55 € | S.A.M.| delivered |
+|21| Shimano SPD 324 pedals | 21 € | Hans | delivered |
+|22| AXS front mech | 90 € | Justus | delivered |
+|23| Front rim brake (wrong size again) | 33 € | Roman | delivered |
+|24| Walfront 12-24 Volt AC to 5 Volt DC Converter  | 20 € | Chasoe (Amazon) | delivered |
+| 25 | 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
+|26| TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | TBD | bike-components | ordered |
+|27| Front rim brake | 20 € | Hans | ordered |
+|28|Second SRAM battery | 46 € | Gordon | ordered |
+|29| 210 mm SRAM blips | 66 € | Claudio | ordered |
+|30| Bottle cages | TBD | TBD | searching |
+|31|New silicone brake hoods | TBD | TBD | will be homemade |
+|32| Electronics enclosure | TBD | TBD | will be homemade |
 
 
 
 # Random notes
-
-## Tyre clearance
-* Old tyres 37-622, radius should be 350 mm
-* New tyres 30-622, radius should be 344 mm
-* New tyres 28-622, radius should be 342 mm
-* New tyres 25-622, radius should be 340 mm
-
-  
-## Wheels:
-
-M-WAVE R 40mm Aerofelge silber 32 Loch - hat Maulbreite von 15.5 - Mögliche Reifen: 20 bis 28 
-
-Mavic OpenPro UST für Tubeless - hat Maulbreite von 19 - Mögliche Reifen: 22 bis 34
-
-Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
-
-KX 19-622 mm: Mögliche Reifen 25-45 mm
 
 
 ## Conceptual ideas for Groupset
@@ -73,7 +56,7 @@ KX 19-622 mm: Mögliche Reifen 25-45 mm
 
 Arbeitshypothese: 28er
 
-### Cassette
+## Cassette
 
 Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
 
@@ -81,10 +64,21 @@ Orbea vorne 34 und 50 Zähne, hinten 11-34 Zähne
 
 Miche vorne 42 und 52 Zähne, hinten daher eher was mit vielen Zähnen...
 
-### Weird cross-group stuff as recommend by Alfton and BadenRay
+## Weird cross-group stuff as recommend by Alfton and BadenRay
 *	[Seen on rennrad-news.de](https://www.rennrad-news.de/forum/threads/shimano-12-fach-kassette-mit-sram-axs-schaltwerk-kompatibel.177813/)
 * Shimano XT CN-8100 12-by chain
 * Shimano Ultegra R8100 cassette (or the 105 variation thereof)
 * Combined with SRAM Rival or Force Rear Derailleur
+
+ ## Wheels
+
+M-WAVE R 40mm Aerofelge silber 32 Loch - hat Maulbreite von 15.5 - Mögliche Reifen: 20 bis 28 
+
+Mavic OpenPro UST für Tubeless - hat Maulbreite von 19 - Mögliche Reifen: 22 bis 34
+
+Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
+
+KX 19-622 mm: Mögliche Reifen 25-45 mm
+
 
 
