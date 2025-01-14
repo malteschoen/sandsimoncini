@@ -30,14 +30,14 @@
 |22| AXS front mech | 90 € | Justus | delivered |
 |23| Front rim brake (wrong size again) | 33 € | Roman | delivered |
 |24| Walfront 12-24 Volt AC to 5 Volt DC Converter  | 20 € | Chasoe (Amazon) | delivered |
-| 25 | 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
-|26| TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | TBD | bike-components | ordered |
-|27| Front rim brake | 20 € | Hans | ordered |
-|28|Second SRAM battery | 46 € | Gordon | ordered |
-|29| 210 mm SRAM blips | 66 € | Claudio | ordered |
-|30| Bottle cages | TBD | TBD | searching |
-|31|New silicone brake hoods | TBD | TBD | will be homemade |
-|32| Electronics enclosure | TBD | TBD | will be homemade |
+|25| 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
+|26| TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | 83 € | bike-components | delivered |
+|27| Front rim brake | 20 € | Hans | delivered |
+|28| Second SRAM battery | 46 € | Gordon | delivered |
+|29| 4x SRAM blips |TBD | malteschoen | will be homemade | 
+|30| Bottle cages | TBD | malteschoen | will be homemade | 
+|31| New silicone brake hoods | TBD | malteschoen | will be homemade |
+|32| Electronics enclosure | TBD | malteschoen | will be homemade |
 
 
 
