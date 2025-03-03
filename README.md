@@ -23,7 +23,7 @@
 | 15 | Shimano 12x Quicklink chain HG6100 (shortened to 112 links from 126 links)| 33 € | Velo | delivered |
 |16| No-name quick release rear axle | 6 € | Velo | delivered |
 |17| (Preliminary) tyres Schwalbe Marathon Reflex 622-25| 66 € | Velo | delivered |
-|18| (Preliminary) gneric 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
+|18| (Preliminary) generic 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
 |19| 27.2 mm Kalloy Seatpost | 30 € | Lenzen | delivered |
 |20| (Preliminary) saddle Selle SMP TRK | 55 € | S.A.M.| delivered |
 |21| Shimano SPD 324 pedals | 21 € | Hans | delivered |
@@ -38,12 +38,15 @@
 |30| Silver bottle cage | 5 € | ROSE bikes | delivered | 
 |31| New silicone brake hoods | TBD | malteschoen | will be homemade |
 |32| Electronics enclosure | TBD | malteschoen | will be homemade |
+|33| modified bell | 8 € | ROSE bikes | modification outstanding |
 
 ## Homemade blips:
 #### Components:
-[1x membrane keyboard](https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_folientastatur_1x_1_ziffer-266086?q=%2Fentwicklerboards-folientastatur-1x-1-ziffer-debo-tast-1x1-p266086.html)
-[1x barrel connector JEITA RC-5320A JSAP1](https://www.reichelt.de/de/de/shop/produkt/hohlstecker_mit_gewinde_aussen_2_5_mm_innen_0_7_mm-202895)
-[2x Dupont cables with at least one receptacle](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
+- [1x membrane keyboard. Note the Dupont-style receptacles.](https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_folientastatur_1x_1_ziffer-266086?q=%2Fentwicklerboards-folientastatur-1x-1-ziffer-debo-tast-1x1-p266086.html)
+- [1x barrel connector EIAJ-01 JEITA RC-5320A JSAP1](https://www.reichelt.de/de/de/shop/produkt/hohlstecker_mit_gewinde_aussen_2_5_mm_innen_0_7_mm-202895)
+- [2x Dupont cables with at least one prong](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
+- Heat shrink tubing, solder, flux etc.
+
 # Random notes
 
 
