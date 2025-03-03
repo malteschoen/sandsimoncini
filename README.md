@@ -19,10 +19,10 @@
 |11| Left brifter | 15 € | Charlotte | delivered |
 |12| ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
 |13|Front and rear wheel (incl. SON hub generator) | 583 € | Kurbelix | delivered |
-|14| Shimano 105 12x cassette | 40 € | Pit | delivered |
-| 15 | Shimano 12x Quicklink chain (shortened to 112 links)| 33 € | Velo | delivered |
+|14| Shimano 105 12x cassette 10-36 teeth CS HG 710 12 | 40 € | Pit | delivered |
+| 15 | Shimano 12x Quicklink chain HG6100 (shortened to 112 links from 126 links)| 33 € | Velo | delivered |
 |16| No-name quick release rear axle | 6 € | Velo | delivered |
-|17| (Preliminary) tyres Schwalbe Marathon 622-25| 66 € | Velo | delivered |
+|17| (Preliminary) tyres Schwalbe Marathon Reflex 622-25| 66 € | Velo | delivered |
 |18| (Preliminary) gneric 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
 |19| 27.2 mm Kalloy Seatpost | 30 € | Lenzen | delivered |
 |20| (Preliminary) saddle Selle SMP TRK | 55 € | S.A.M.| delivered |
@@ -31,11 +31,11 @@
 |23| Front rim brake (wrong size again) | 33 € | Roman | delivered |
 |24| Walfront 12-24 Volt AC to 5 Volt DC Converter  | 20 € | Chasoe (Amazon) | delivered |
 |25| 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
-|26| TA Spécialites 50 and 39 teeth chainrings (135 mm bolt circle) | 83 € | bike-components | delivered |
+|26| TA Spécialites 50 and 39 teeth chainrings (Campagnolo-style: 135 mm bolt circle) | 83 € | bike-components | delivered |
 |27| Front rim brake | 20 € | Hans | delivered |
 |28| Second SRAM battery | 46 € | Gordon | delivered |
-|29| 4x SRAM blips |TBD | malteschoen | will be homemade | 
-|30| Bottle cages | TBD | malteschoen | will be homemade | 
+|29| 2x SRAM blips (see below) | TBD | malteschoen | delivered | 
+|30| Silver bottle cage | 5 € | ROSE bikes | delivered | 
 |31| New silicone brake hoods | TBD | malteschoen | will be homemade |
 |32| Electronics enclosure | TBD | malteschoen | will be homemade |
 
