@@ -41,50 +41,37 @@
 |33| modified bell | 8 € | ROSE bikes | modification outstanding |
 
 ## Homemade blips:
-#### Components:
+
+#### Tooling
+- Electric drill
+- File
+- Soldering iron
+- Solder
+- Flux
+- Hot air gun (simple gas lighter will also do)
+- Heat shrink tubing of XYZ mm diam (XYY thou)
+
+#### Components per blip:
 - [1x membrane keyboard. Note the Dupont-style receptacles.](https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_folientastatur_1x_1_ziffer-266086?q=%2Fentwicklerboards-folientastatur-1x-1-ziffer-debo-tast-1x1-p266086.html)
 - [1x barrel connector EIAJ-01 JEITA RC-5320A JSAP1](https://www.reichelt.de/de/de/shop/produkt/hohlstecker_mit_gewinde_aussen_2_5_mm_innen_0_7_mm-202895)
 - [2x Dupont cables with at least one prong](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
-- Heat shrink tubing, solder, flux etc.
 
-# Random notes
+#### Preparations
+- Grab barrel connector jack  with the three teeth of the Jacobs-style chuck that is found on your electric drill
+- Push file against spinning connector body to reduce body diameter to XYZ mm (XYZ thou).
+- Cut and strip Dupont cables. Use soldering iron to coat exposed wire in solder (do not forget to apply flux first)
+- Solder a cable to each metal tab of the barrel connector (again, remember to use flux)
+- Apply heat shrink tubing
 
 
-## Conceptual ideas for Groupset
+#### Assembly / Routing
 
-* [SRAM Upgrade set](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Upgrade-Kit-Rim-Brake-2x12-fach--48241.html) - 950 €
-    * [Brifters EB-FRC-D1](https://www.sram.com/de/sram/models/eb-frc-d1)
-    * [SRAM Force AXS D2 12x rear derailleuer 12 fach RD-FRC-E-D2](https://www.sram.com/de/sram/models/rd-frc-e-d2)
-    * [SRAM Force AXS D2 2x12 front derailleur, FD-FRC-E-D2](https://www.sram.com/de/sram/models/fd-frc-e-d2)
-* [SRAM Groupset](https://www.tnc-hamburg.com/TNC-Shop/Antrieb-Schaltung/Rennrad-Komponenten/Road-Gruppen/Sram-AXS-12-fach-Gruppen-Kits/Sram-Force-AXS/Sram-Force-AXS-Gruppe-Rim-Brake-2x12-fach-komplett--60650.html) - 1450 €      
-* Shimano and LTWOO are not in the pool since they require some internal cabling / batteries aren't easily removable
- * [WHEELTOP EDS-TX](https://wheeltop.com/products/eds-bicycle-derailleur) - 650 € - cannot be used since the battery is non-removable - literally won't fly with TSA
-
-Arbeitshypothese: 28er
-
-## Cassette
-
-Radon vorne 34 und 50 Zähne, hinten 12-28 Zähne
-
-Orbea vorne 34 und 50 Zähne, hinten 11-34 Zähne
-
-Miche vorne 42 und 52 Zähne, hinten daher eher was mit vielen Zähnen...
-
-## Weird cross-group stuff as recommend by Alfton and BadenRay
+#### Weird cross-group stuff as recommend by Alfton and BadenRay
 *	[Seen on rennrad-news.de](https://www.rennrad-news.de/forum/threads/shimano-12-fach-kassette-mit-sram-axs-schaltwerk-kompatibel.177813/)
 * Shimano XT CN-8100 12-by chain
 * Shimano Ultegra R8100 cassette (or the 105 variation thereof)
 * Combined with SRAM Rival or Force Rear Derailleur
 
- ## Wheels
-
-M-WAVE R 40mm Aerofelge silber 32 Loch - hat Maulbreite von 15.5 - Mögliche Reifen: 20 bis 28 
-
-Mavic OpenPro UST für Tubeless - hat Maulbreite von 19 - Mögliche Reifen: 22 bis 34
-
-Radon: Mavic Aksium hat Maulbreite 17 - Mögliche Reifen: 20 bis 34
-
-KX 19-622 mm: Mögliche Reifen 25-45 mm
 
 
 
