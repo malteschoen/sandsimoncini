@@ -7,7 +7,7 @@
 # Parts purchases/costs
 |Entry no. | Part | Cost | Seller | Status | 
 | --- |----------- |----------- | ----------- | ------ | 
-|01| Frame | 550 € | Thorsten| delivered |
+|01| Frame incl rear brake and right brifter| 550 € | Thorsten| delivered |
 |02| Crankset | 35 € | Thorsten| delivered |
 |03| Blips 140 mm (too short)| 50 € | M.H. | delivered |
 |04| Leather grip tape | 20 € | Sascha| delivered |
@@ -16,11 +16,12 @@
 |07| Manubri handlebar | 22 € | Paul | delivered |
 |08| AXS battery charger | 30 € | Stefan | delivered |
 |09| AXS rear mech | 180 € | Jasper | delivered |
+|10| Retro saddle | TBD | TBD | TBD |
 |11| Left brifter | 15 € | Charlotte | delivered |
 |12| ~~Front rim brake (too big)~~ |~~27 €~~ | ~~Philipp~~ | ~~delivered~~ |
 |13| Front and rear wheel (incl. SON hub generator) | 583 € | Kurbelix | delivered |
 |14| Shimano 105 12x cassette 10-36 teeth CS HG 710 12 | 40 € | Pit | delivered |
-| 15 | Shimano 12x Quicklink chain HG6100 (shortened to 112 links from 126 links)| 33 € | Velo | delivered |
+|15| Shimano 12x Quicklink chain HG6100 (shortened to 112 links from 126 links)| 33 € | Velo | delivered |
 |16| No-name quick release rear axle | 6 € | Velo | delivered |
 |17| (Preliminary) tyres Schwalbe Marathon Reflex 622-25| 66 € | Velo | delivered |
 |18| (Preliminary) generic 700 butyl tubes Sclaverand/Presta | 7 € | Decathlon | delivered |
@@ -28,13 +29,12 @@
 |20| (Preliminary) saddle Selle SMP TRK | 55 € | S.A.M.| delivered |
 |21| Shimano SPD 324 pedals | 21 € | Hans | delivered |
 |22| AXS front mech | 90 € | Justus | delivered |
-|23| Front rim brake (wrong size again) | 33 € | Roman | delivered |
 |24| Walfront 12-24 Volt AC to 5 Volt DC Converter  | 20 € | Chasoe (Amazon) | delivered |
-|25| 50 teeth chainring (135 mm bolt circle) (too wide)| 33 € | Fred | delivered |
+|25| ~~50 teeth chainring (135 mm bolt circle) (too wide)~~| ~~33 €~~ | ~~Fred~~ | ~~delivered~~ |
 |26| TA Spécialites 50 and 39 teeth chainrings (Campagnolo-style: 135 mm bolt circle) | 83 € | bike-components | delivered |
 |27| Front rim brake | 20 € | Hans | delivered |
 |28| Second SRAM battery | 46 € | Gordon | delivered |
-|29| 2x SRAM blips (see below) | 2x4 € = 8 € | malteschoen | delivered | 
+|29| 2x homemade SRAM blips (see below) | 2x4 € = 8 € | malteschoen | delivered | 
 |30| Silver bottle cage | 5 € | ROSE bikes | delivered | 
 |31| New silicone brake hoods | TBD | malteschoen | will be homemade |
 |32| Electronics enclosure | TBD | malteschoen | will be homemade |
